@@ -1,0 +1,42 @@
+html {
+  font-family: "Helvetica", Arial, sans-serif;
+}
+
+#header a {
+  color: #fff;
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
+
+.sct-getpremium {
+  background-color: #1D75DE;
+  height: 40vh;
+  color: #fff;
+  justify-content: center;
+  padding-top: 6rem;
+  padding-left: 5rem;
+}
+.sct-getpremium h1 {
+  font-weight: 700;
+}
+.sct-getpremium a {
+  color: #fff;
+}
+.sct-getpremium .terms-and-conditions {
+  font-size: 0.6rem;
+}
+.sct-getpremium button {
+  border-radius: 30px;
+  border: solid 2px #fff;
+}
+.sct-getpremium .get-started {
+  background-color: #000;
+  color: #fff;
+  border-radius: 30px;
+  border: solid 2px #000;
+  font-weight: 600;
+}
+.sct-getpremium .view-plans {
+  background-color: #fff;
+  font-weight: 600;
+}/*# sourceMappingURL=base.css.map */
