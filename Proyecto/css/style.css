@@ -341,6 +341,9 @@ button{
 .footer{
   width: 100%;
 }
+footer{
+	height: fit-content;
+}
 .last-options{
   width: 100%;
 }
