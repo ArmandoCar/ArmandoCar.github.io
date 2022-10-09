@@ -1,0 +1,13 @@
+.contenedor-padre{
+ background-color: #ff4757;
+ padding: 20px 0 20px 0;
+ display: flex;
+ flex-wrap: wrap;
+}
+.elemento-hijo{
+ flex-grow: 1;
+ text-align: center;
+}
+p{
+ color: white;
+}
